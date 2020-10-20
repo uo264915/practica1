@@ -1,3 +1,4 @@
+/* especificidad = 001 */
 body {
   font: 400 15px Tahoma, sans-serif;
   line-height: 1.8;
@@ -6,6 +7,7 @@ body {
   color: #000000;
   background-color: rgba(112, 110, 110, 0.8);
  }
+ /* especificidad = 001 */
 h1 {
   background-color: #c5bb2d;
   color: #000;
@@ -13,71 +15,86 @@ h1 {
   padding: 100px 0px;
   text-align: center;     
 }
+/* especificidad = 001 */
 h2{
 font-weight: bolder;
 text-decoration: underline;
 font: 500 1em Tahoma, sans-serif;
 color: #000;
 }
+/* especificidad = 001 */
 html{
 background-color: rgba(255,255,255,0.7);
 }
+/* especificidad = 001 */
 aside{
 background-color:rgba(255,255,255,0.3);
 color: #ffffff;
 padding: 10px 10px 5px 5px;
 }
+/* especificidad = 001 */
 nav{
 font-family: Verdana,serif;
 float:right;
 padding-right:100px;
 padding-bottom: 4px;
 }
+/* especificidad = 001 */
 ul{
 border-width: 4px;
 border-radius: 40px;
 background-color: #ffffff;
 }
+/* especificidad = 011 */
 a.reseña{
 text-align: center;;
 }
+/* especificidad = 001 */
 video{
   width: 20 em;
   height: 30em;
   margin: auto;
 }
+/* especificidad = 011 */
 img.cartel{
   float: right;  
   padding-left:10px;
   padding-bottom: 5px;
 }
+/* especificidad = 011 */
 img.imagen{
   float: left;  
   padding-left:10px;
   width: 300px;
   height: 300px;
 }
+/* especificidad = 001 */
 footer{
 background-color: #c5bb2d;
 }
+/* especificidad = 001 */
 h3,h4,h5,h6{
 font-weight: bolder;
 text-decoration: underline;
 font: 500 1em Tahoma, sans-serif;
 color: #000;
 }
+/* especificidad = 001 */
 main { 
 padding-top:40px;
 padding-left:5px;
 }
+/* especificidad = 001 */
 td{
 text-align: center;
 }
+/* especificidad = 001 */
 th{
 background-color: #c5bb2d;
 color:#000;
 font-weight: 700;
 }
+/* especificidad = 001 */
 table{
 border: 4px solid black;
 align-content:center;
