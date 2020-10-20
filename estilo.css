@@ -41,6 +41,11 @@ background-color: #ffffff;
 a.reseña{
 text-align: center;;
 }
+video{
+  width: 20 em;
+  height: 30em;
+  margin: auto;
+}
 img.cartel{
   float: right;  
   padding-left:10px;
