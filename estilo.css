@@ -42,12 +42,6 @@ background-color: #000000;
 a{
 color:#ffffff;
 }
-video{
-width: 100%;
-height: 600px;
-object-fit: cover;
-z-index: -100;
-}
 img{
 float:right;  
 padding-left:10px;
@@ -55,7 +49,6 @@ padding-bottom: 5px;
 }
 footer{
 background-color: #c5bb2d;
-
 }
 h3,h4,h5,h6{
 font-weight: bolder;
