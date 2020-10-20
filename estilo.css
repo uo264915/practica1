@@ -8,7 +8,7 @@ body {
  }
 h1 {
   background-color: #c5bb2d;
-  color: #fff;
+  color: #000;
   text-transform: uppercase;
   padding: 100px 0px;
   text-align: center;     
@@ -17,7 +17,7 @@ h2{
 font-weight: bolder;
 text-decoration: underline;
 font: 500 1em Tahoma, sans-serif;
-color: #c5bb2d;
+color: #000;
 }
 html{
 background-image: url("Multimedia/FotoPersonajes.jpeg");
@@ -62,7 +62,7 @@ h3,h4,h5,h6{
 font-weight: bolder;
 text-decoration: underline;
 font: 500 1em Tahoma, sans-serif;
-color: #c5bb2d;
+color: #000;
 }
 main { 
 padding-top:40px;
@@ -72,8 +72,8 @@ td{
 text-align: center;
 }
 th{
-background-color: #c5bb2d;
-color:#ffffff;
+background-color: #000;
+color:#000;
 font-weight: 700;
 }
 table{
