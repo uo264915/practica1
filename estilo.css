@@ -46,6 +46,9 @@ video{
   height: 30em;
   margin: auto;
 }
+p{
+  color: #ffffff;
+}
 img.cartel{
   float: right;  
   padding-left:10px;
