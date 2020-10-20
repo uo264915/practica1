@@ -28,8 +28,8 @@ color: #ffffff;
 padding: 10px 10px 5px 5px;
 }
 nav{
-font-family:Verdana,serif;
-float:left;
+font-family: Verdana,serif;
+float:right;
 padding-right:100px;
 padding-bottom: 4px;
 }
@@ -39,7 +39,7 @@ border-radius: 40px;
 background-color: #ffffff;
 }
 a.reseña{
-margin: auto;
+text-align: center;;
 }
 img.cartel{
   float: right;  
