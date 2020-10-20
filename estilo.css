@@ -46,8 +46,11 @@ border-radius: 40px;
 background-color: #ffffff;
 }
 /* especificidad = 011 */
-a.reseña{
-text-align: center;;
+.reseña{
+text-align: center;
+}
+a{
+  background-color: #ffffff;
 }
 /* especificidad = 001 */
 video{
