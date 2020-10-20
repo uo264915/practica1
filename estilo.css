@@ -50,6 +50,8 @@ img.imagen{
   float: left;  
   padding-left:10px;
   padding-bottom: 5px;
+  width: 100px;
+  height: 100px;
 }
 footer{
 background-color: #c5bb2d;
