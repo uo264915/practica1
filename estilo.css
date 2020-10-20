@@ -49,9 +49,8 @@ img.cartel{
 img.imagen{
   float: left;  
   padding-left:10px;
-  padding-bottom: 5px;
-  width: 100px;
-  height: 100px;
+  width: 300;
+  height: 300;
 }
 footer{
 background-color: #c5bb2d;
